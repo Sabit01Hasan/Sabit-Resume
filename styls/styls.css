@@ -93,9 +93,7 @@
     justify-content: space-between;
     margin-left: 48px;
     margin-right: 48px;
-}
-.section1{
-    margin: 48px;
+    padding: 48px;
 }
 .section1-img{
     border-right: 48px;
@@ -136,6 +134,7 @@
     margin-top: 32px;
     margin-left: 48px;
     margin-right: 48px;
+    padding: 48px;
 }
 .page1-s3{
     border: 48px;
@@ -146,6 +145,7 @@
     margin-left: 48px;
     margin-right: 48px;
     margin-top: 32px;
+    padding: 48px;
 }
 .p3-s1{
     color: rgb(13, 19, 33);
@@ -170,8 +170,65 @@
     box-sizing: border-box;
     border: 1px solid rgba(13, 19, 33, 0.2);
     border-radius: 16px;
+    margin-bottom: 149px;
 
 }
 .page3{
     background-color: white;
+    margin-right: 150px;
+    margin-left: 150px;
+}
+.p4-s1{
+    color: rgb(13, 19, 33);
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 24px;
+    font-weight: 800;
+    line-height: 36px;
+    letter-spacing: 0%;
+    text-align: left;
+    margin-top: 24px;
+}
+.p4-s2{
+    color: rgb(13, 19, 33);
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: left;
+    margin-top: 8px;
+    margin-bottom: 24px;
+}
+.p4-l1{
+    color: rgb(13, 19, 33);
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 19px;
+    letter-spacing: 0%;
+    text-align: left;
+    text-decoration-line: underline;
+}
+.p4{
+    display: flex;
+    margin-top: 48px;
+    justify-content: space-between;
+}
+.p4-sec1{
+    padding: 40px;
+    border-radius: 16px;
+    background: rgba(255, 76, 30, 0.05);
+    margin-right: 24px;
+}
+.p4-sec2{
+    padding: 40px;
+    border-radius: 16px;
+    background: rgba(0, 76, 232, 0.05);
+    margin-right: 24px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.p4-sec3{
+    padding: 40px;
+    border-radius: 16px;
+    background: rgba(255, 223, 0, 0.05);
 }
